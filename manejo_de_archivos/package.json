@@ -1,0 +1,13 @@
+{
+    "name": "desafio-manejo-de-archivos",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Desafio Manejo de Archivos",
+    "main": "App.js",
+    "scripts": {
+        "start": "node App.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Eduardo Unrrein",
+    "license": "ISC"
+}

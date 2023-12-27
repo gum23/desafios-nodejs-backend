@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Guitarra",
+    "description": "Gibson Les paul",
+    "price": 580000,
+    "thumbnail": "Sin imagen",
+    "code": "gtr001",
+    "stock": 4,
+    "id": 1
+  },
+  {
+    "title": "Guitarra",
+    "description": "Stratocaster Fender",
+    "price": 450000,
+    "thumbnail": "Sin imagen",
+    "code": "gtr002",
+    "stock": 2,
+    "id": 2
+  },
+  {
+    "title": "Saxo",
+    "description": "Dorado nuevo",
+    "price": 780000,
+    "thumbnail": "Sin imagen",
+    "code": "air001",
+    "stock": 2,
+    "id": 3
+  },
+  {
+    "title": "Bajo",
+    "description": "Ibanez 5 cuerdas",
+    "price": 550000,
+    "thumbnail": "Sin imagen",
+    "code": "bss001",
+    "stock": 3,
+    "id": 4
+  }
+]
