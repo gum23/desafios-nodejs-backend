@@ -25,9 +25,9 @@ app.get("/products", async (req, res) => {
 })
 
 //Traer produto por ID
-app.get("/product/:id", async (req, res) => {
+app.get("/products/:pid", async (req, res) => {
     try {
-        const param = req.params.id;
+        const param = req.params.pid;
         const paramNumber = parseInt(param);
         const result = await productoManager.getProductsById(paramNumber);
 

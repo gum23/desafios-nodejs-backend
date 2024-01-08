@@ -72,7 +72,7 @@ class ProductManager {
     let product = this.products.find((product) => product.id === id);
 
     if (product == undefined) {
-      return "Not Found!";
+      return {"Error en el pedido": "El producto no existe"};
     } else {
       return product;
     }
